@@ -3,8 +3,13 @@
 }
 .photo {
   background-color: rgb(65, 64, 64);
+  color: aliceblue;
 }
 .contact {
   background-color: teal;
   color: aliceblue;
+}
+.croissant {
+  display: block;
+  width: 70%;
 }
